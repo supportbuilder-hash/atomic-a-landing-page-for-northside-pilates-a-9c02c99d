@@ -77,6 +77,137 @@
         }
       ]
     },
+    "schedule": {
+      "eyebrow": "Weekly Schedule",
+      "title": "Find your slot in the week",
+      "subtitle": "A simple, consistent weekly rhythm so you can plan around work, not the other way around.",
+      "days": [
+        {
+          "day": "Monday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Mat Foundations",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Mat Foundations",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "9:00 AM",
+              "name": "Prenatal Pilates",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Private 1:1 Sessions",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Small Group Strength",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Mat Foundations",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "9:00 AM",
+              "name": "Prenatal Pilates",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "7:30 PM",
+              "name": "Private 1:1 Sessions",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Small Group Strength",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "classes": [
+            {
+              "time": "9:00 AM",
+              "name": "Small Group Strength",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "classes": []
+        }
+      ]
+    },
     "instructors": {
       "eyebrow": "Instructors",
       "title": "Taught by people who actually watch you move",
@@ -183,7 +314,8 @@
       "successMessage": "You're in. Check your inbox for a booking link.",
       "disclaimer": "One free class per new client. No card required.",
       "cta": "Start Your Free Class",
-      "success": "Welcome! Check your email for class details and studio info."
+      "success": "Welcome! Check your email for class details and studio info.",
+      "emailPlaceholder": "Enter your email"
     }
   }
 }

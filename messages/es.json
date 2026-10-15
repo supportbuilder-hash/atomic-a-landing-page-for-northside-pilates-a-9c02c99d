@@ -10,11 +10,11 @@
     "primary": "Comenzar prueba gratuita"
   },
   "footer": {
-    "tagline": "Pilates tranquilo y reflexivo para profesionales ocupados",
+    "tagline": "Pilates tranquilo y considerado para profesionales ocupados",
     "rights": "Todos los derechos reservados.",
     "columns": {
       "studio": "Estudio",
-      "visit": "Visitanos"
+      "visit": "Visítanos"
     },
     "links": {
       "classes": "Tipos de clases",
@@ -30,14 +30,14 @@
       "eyebrow": "Pilates boutique, a cinco minutos del distrito financiero",
       "titleStart": "Fuerza y serenidad, adaptadas a",
       "titleAccent": "tu horario real",
-      "subtitle": "Northside Pilates es un estudio tranquilo y reflexivo para profesionales que desean moverse bien en el tiempo que tienen. Las clases de reformer y mat se imparten de 6am a 8pm, con sesiones privadas disponibles según tu calendario.",
+      "subtitle": "Northside Pilates es un estudio tranquilo y considerado para profesionales que quieren moverse bien en el tiempo que tienen. Las clases de reformer y mat se imparten de 6am a 8pm, con sesiones privadas disponibles según tu calendario.",
       "primaryCta": "Reserva tu clase gratuita",
       "secondaryCta": "Ver tipos de clases"
     },
     "classTypes": {
       "eyebrow": "Tipos de clases",
       "title": "Seis formas de moverte, una sala tranquila",
-      "subtitle": "Cada clase tiene un límite de asistentes para mantener el enfoque en tu forma, no en la cantidad. Elige lo que se adapte a tu semana, cambia cuando lo necesites.",
+      "subtitle": "Cada clase tiene un límite de asistentes para mantener la atención en tu forma, no en la cantidad. Elige lo que se ajuste a tu semana, cambia cuando lo necesites.",
       "items": [
         {
           "title": "Reformer Flow",
@@ -77,9 +77,140 @@
         }
       ]
     },
+    "schedule": {
+      "eyebrow": "Horario semanal",
+      "title": "Encuentra tu espacio en la semana",
+      "subtitle": "Un ritmo semanal simple y consistente para que puedas planificar alrededor del trabajo, no al revés.",
+      "days": [
+        {
+          "day": "Monday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Mat Foundations",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Mat Foundations",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "9:00 AM",
+              "name": "Prenatal Pilates",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Private 1:1 Sessions",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Small Group Strength",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Mat Foundations",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "9:00 AM",
+              "name": "Prenatal Pilates",
+              "instructor": "Priya Nair"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "7:30 PM",
+              "name": "Private 1:1 Sessions",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Flow",
+              "instructor": "Daniel Osei"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Express Lunch Reset",
+              "instructor": "Maya Chen"
+            },
+            {
+              "time": "5:30 PM",
+              "name": "Small Group Strength",
+              "instructor": "Priya Nair"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "classes": [
+            {
+              "time": "9:00 AM",
+              "name": "Small Group Strength",
+              "instructor": "Maya Chen"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "classes": []
+        }
+      ]
+    },
     "instructors": {
       "eyebrow": "Instructores",
-      "title": "Enseñado por personas que realmente te observan",
+      "title": "Enseñado por personas que realmente observan tu movimiento",
       "subtitle": "Cada instructor en Northside está certificado en Pilates clásico y contemporáneo, con formación continua en rehabilitación y trabajo prenatal.",
       "items": [
         {
@@ -102,7 +233,7 @@
     "pricing": {
       "eyebrow": "Membresía",
       "title": "Precios simples, sin contratos a largo plazo",
-      "subtitle": "Elige el ritmo que se adapte a tu semana. Cada plan incluye acceso a clases de reformer, mat y grupos pequeños.",
+      "subtitle": "Elige el ritmo que se ajuste a tu semana. Cada plan incluye acceso a clases de reformer, mat y grupos pequeños.",
       "items": [
         {
           "name": "Drop-In",
@@ -153,7 +284,7 @@
     "studioInfo": {
       "eyebrow": "El estudio",
       "title": "Una sala tranquila diseñada para la concentración",
-      "subtitle": "Northside se encuentra justo fuera de la línea de tránsito principal, a cinco minutos del distrito financiero, para que una clase quepa antes del trabajo, al mediodía o de camino a casa.",
+      "subtitle": "Northside se encuentra justo fuera de la línea de tránsito principal, a cinco minutos del distrito financiero, para que una clase quepa antes del trabajo, en la pausa del almuerzo o de camino a casa.",
       "details": [
         {
           "label": "Address",
@@ -178,12 +309,13 @@
       "title": "Tu primera clase corre por nuestra cuenta",
       "subtitle": "Deja tu correo electrónico y te enviaremos un enlace para reservar cualquier clase del horario, reformer o mat, sin compromiso.",
       "emailLabel": "Dirección de correo electrónico",
-      "placeholder": "tu@empresa.com",
+      "placeholder": "you@company.com",
       "submitLabel": "Reclamar mi clase gratuita",
-      "successMessage": "¡Listo! Revisa tu bandeja de entrada para el enlace de reserva.",
+      "successMessage": "Estás dentro. Revisa tu bandeja de entrada para obtener un enlace de reserva.",
       "disclaimer": "Una clase gratuita por cliente nuevo. No se requiere tarjeta.",
-      "cta": "Comienza Tu Clase Gratuita",
-      "success": "¡Bienvenido! Revisa tu correo electrónico para los detalles de la clase e información del estudio."
+      "cta": "Comienza tu clase gratuita",
+      "success": "¡Bienvenido! Revisa tu correo electrónico para obtener los detalles de la clase e información del estudio.",
+      "emailPlaceholder": "Ingresa tu correo electrónico"
     }
   }
 }
