@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "classes": "Clases",
+    "instructors": "Instructores",
+    "pricing": "Precios",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Comenzar prueba gratuita"
+  },
+  "footer": {
+    "tagline": "Pilates tranquilo y reflexivo para profesionales ocupados",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "studio": "Estudio",
+      "visit": "Visitanos"
+    },
+    "links": {
+      "classes": "Tipos de clases",
+      "instructors": "Instructores",
+      "pricing": "Precios",
+      "studioInfo": "Información del estudio",
+      "freeTrial": "Prueba gratuita",
+      "home": "Inicio"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Pilates boutique, a cinco minutos del distrito financiero",
+      "titleStart": "Fuerza y serenidad, adaptadas a",
+      "titleAccent": "tu horario real",
+      "subtitle": "Northside Pilates es un estudio tranquilo y reflexivo para profesionales que desean moverse bien en el tiempo que tienen. Las clases de reformer y mat se imparten de 6am a 8pm, con sesiones privadas disponibles según tu calendario.",
+      "primaryCta": "Reserva tu clase gratuita",
+      "secondaryCta": "Ver tipos de clases"
+    },
+    "classTypes": {
+      "eyebrow": "Tipos de clases",
+      "title": "Seis formas de moverte, una sala tranquila",
+      "subtitle": "Cada clase tiene un límite de asistentes para mantener el enfoque en tu forma, no en la cantidad. Elige lo que se adapte a tu semana, cambia cuando lo necesites.",
+      "items": [
+        {
+          "title": "Reformer Flow",
+          "description": "A flowing, full-body sequence on the reformer that builds core control, posture and length without strain.",
+          "duration": "50 minutes",
+          "level": "All levels"
+        },
+        {
+          "title": "Mat Foundations",
+          "description": "Classic mat Pilates focused on breath, alignment and the deep stabilizing muscles that support everything else.",
+          "duration": "45 minutes",
+          "level": "Beginner"
+        },
+        {
+          "title": "Private 1:1 Sessions",
+          "description": "One-on-one time with an instructor to work on specific goals, old injuries or simply a packed, unpredictable week.",
+          "duration": "55 minutes",
+          "level": "Any level"
+        },
+        {
+          "title": "Express Lunch Reset",
+          "description": "A focused, efficient reformer session designed to fit a lunch break, in and changed within the hour.",
+          "duration": "30 minutes",
+          "level": "Intermediate"
+        },
+        {
+          "title": "Prenatal Pilates",
+          "description": "Gentle, trimester-adapted movement that builds strength and stability for pregnancy and recovery.",
+          "duration": "45 minutes",
+          "level": "Prenatal"
+        },
+        {
+          "title": "Small Group Strength",
+          "description": "A small-group reformer class with light resistance work, capped at six to keep coaching personal.",
+          "duration": "50 minutes",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    "instructors": {
+      "eyebrow": "Instructores",
+      "title": "Enseñado por personas que realmente te observan",
+      "subtitle": "Cada instructor en Northside está certificado en Pilates clásico y contemporáneo, con formación continua en rehabilitación y trabajo prenatal.",
+      "items": [
+        {
+          "name": "Maya Chen",
+          "role": "Founder & Lead Instructor",
+          "bio": "Maya opened Northside after a decade teaching in corporate wellness programs, convinced professionals needed a calmer, more consistent studio."
+        },
+        {
+          "name": "Daniel Osei",
+          "role": "Reformer Specialist",
+          "bio": "Daniel trained in classical Pilates in London and focuses on precision, bringing a quiet intensity to every reformer session he leads."
+        },
+        {
+          "name": "Priya Nair",
+          "role": "Prenatal & Rehab Lead",
+          "bio": "A former physiotherapist, Priya designs the studio's prenatal and post-injury programming and works closely with clients' care teams."
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Membresía",
+      "title": "Precios simples, sin contratos a largo plazo",
+      "subtitle": "Elige el ritmo que se adapte a tu semana. Cada plan incluye acceso a clases de reformer, mat y grupos pequeños.",
+      "items": [
+        {
+          "name": "Drop-In",
+          "price": "$38",
+          "period": "/class",
+          "description": "For a first visit or an occasional reset between travel and deadlines.",
+          "features": [
+            "Any class type",
+            "Book up to 48 hours ahead",
+            "No commitment"
+          ],
+          "cta": "Start with a drop-in",
+          "badge": "",
+          "highlighted": false
+        },
+        {
+          "name": "Monthly Unlimited",
+          "price": "$249",
+          "period": "/month",
+          "description": "Our most popular plan, for clients who come two or more times a week.",
+          "features": [
+            "Unlimited classes",
+            "Priority booking window",
+            "One guest pass per month",
+            "Pause anytime"
+          ],
+          "cta": "Join Monthly Unlimited",
+          "badge": "Most popular",
+          "highlighted": true
+        },
+        {
+          "name": "Founding Member",
+          "price": "$199",
+          "period": "/month",
+          "description": "A limited annual-commitment rate for clients ready to make Pilates part of their routine.",
+          "features": [
+            "Unlimited classes",
+            "Locked-in rate for 12 months",
+            "Two private sessions per quarter",
+            "Priority booking window"
+          ],
+          "cta": "Apply for Founding rate",
+          "badge": "Limited spots",
+          "highlighted": false
+        }
+      ]
+    },
+    "studioInfo": {
+      "eyebrow": "El estudio",
+      "title": "Una sala tranquila diseñada para la concentración",
+      "subtitle": "Northside se encuentra justo fuera de la línea de tránsito principal, a cinco minutos del distrito financiero, para que una clase quepa antes del trabajo, al mediodía o de camino a casa.",
+      "details": [
+        {
+          "label": "Address",
+          "value": "214 Northside Ave, Studio 2B"
+        },
+        {
+          "label": "Studio hours",
+          "value": "Mon to Fri, 6am to 8pm. Sat, 8am to 1pm"
+        },
+        {
+          "label": "Email",
+          "value": "hello@northsidepilates.studio"
+        },
+        {
+          "label": "Booking window",
+          "value": "Classes open two weeks in advance"
+        }
+      ]
+    },
+    "freeTrial": {
+      "eyebrow": "Clase de prueba gratuita",
+      "title": "Tu primera clase corre por nuestra cuenta",
+      "subtitle": "Deja tu correo electrónico y te enviaremos un enlace para reservar cualquier clase del horario, reformer o mat, sin compromiso.",
+      "emailLabel": "Dirección de correo electrónico",
+      "placeholder": "tu@empresa.com",
+      "submitLabel": "Reclamar mi clase gratuita",
+      "successMessage": "¡Listo! Revisa tu bandeja de entrada para el enlace de reserva.",
+      "disclaimer": "Una clase gratuita por cliente nuevo. No se requiere tarjeta.",
+      "cta": "Comienza Tu Clase Gratuita",
+      "success": "¡Bienvenido! Revisa tu correo electrónico para los detalles de la clase e información del estudio."
+    }
+  }
+}
